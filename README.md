@@ -6,7 +6,7 @@
 
 
 ## DataSet
-- The Dataset is confidential by company.
+- The dataset is confidential by company.
 - The characteristic of data is that the number of data in the output node is larger than the number of data in the input node. In other words, there are many measurement values that need to be predicted compared to the parameter values.
 - In vessels, there are A ~ F types, each type of vessel has 6, 23, 5, 5, 15, 16 input nodes for training data (parameters) respectively, while 47 output nodes.
 
