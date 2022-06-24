@@ -1,4 +1,4 @@
-# Vessel-Measurement-Prediction-with-CNN-master
+# Vessel Measurement Prediction with CNN
 
 ## Short Description
 - In vessel, there are various parts such as D/HOUSE, H/COVER, Inside E/RM, Inside C/HOLD, Inside WBTK, T/SIDE, S/BTM, F/BTM, Inside Peak TK according to countries where the vessel was made, what kind of stuff are you carrying, and what engine the vessel uses such as Steam Turbine Engine, MAN Electronic Gas-Injection, Magneto-Hydro Dynamics, etc (we call this parameters).
